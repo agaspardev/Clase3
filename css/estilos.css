@@ -1,0 +1,23 @@
+h1 {
+   color: red; 
+}
+
+.classLista {
+    background: coral;
+    color: blue;
+    width: 10em;
+}
+
+.classParrafo1 {
+    background: blue;
+}
+
+#idParrafo {
+    color: blueviolet;
+}
+
+#idSpan {
+    background: rgb(242, 248, 162);
+    color: rgb(12, 2, 51);
+    margin: 0;
+}
